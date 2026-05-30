@@ -17,4 +17,3 @@ docker compose up -d
 ```
 The URL of the Jupyter can be taken from the dockerDesktop-> Containers -> pyspark -> Logs
 ```
-![alt text](<Screenshot 2026-05-30 at 9.12.44 AM.png>)
